@@ -1,4 +1,3 @@
-```markdown
 # Teste de Hipóteses com Data Science
 
 Projeto desenvolvido durante o curso **"Data Science: Testando Hipóteses"**, com foco em análise estatística aplicada para tomada de decisão baseada em dados.
@@ -92,4 +91,3 @@ Sou um profissional em transição para a área de dados, com foco em análise d
 ---
 
 Se este projeto foi útil ou interessante, considere dar uma estrela!
-```
